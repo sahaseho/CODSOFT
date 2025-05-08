@@ -1,0 +1,1 @@
+This repository contains five Python-based projects developed as part of the CodSoft Internship Program. These tasks demonstrate proficiency in core Python programming concepts including input/output handling, conditional logic, loops, functions, and data structures. Some tasks include optional features such as score tracking and file handling for a more practical experience.
